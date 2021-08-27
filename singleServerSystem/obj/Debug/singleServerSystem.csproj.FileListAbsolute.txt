@@ -1,0 +1,11 @@
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\bin\Debug\singleServerSystem.exe.config
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\bin\Debug\singleServerSystem.exe
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\bin\Debug\singleServerSystem.pdb
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.csprojResolveAssemblyReference.cache
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.Home.resources
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.Properties.Resources.resources
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.csproj.GenerateResource.Cache
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.exe
+c:\users\alsharqawi\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.pdb
+C:\Users\ALSHARQAWI\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.test.resources
+C:\Users\ALSHARQAWI\documents\visual studio 2013\Projects\singleServerSystem\singleServerSystem\obj\Debug\singleServerSystem.doubleServier.resources
